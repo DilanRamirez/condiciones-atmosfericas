@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/condiciones-atmosfericas/static/css/main.e47ea929.chunk.css",
+    "main.js": "/condiciones-atmosfericas/static/js/main.2f1ecd5d.chunk.js",
+    "main.js.map": "/condiciones-atmosfericas/static/js/main.2f1ecd5d.chunk.js.map",
+    "runtime-main.js": "/condiciones-atmosfericas/static/js/runtime-main.40ad2840.js",
+    "runtime-main.js.map": "/condiciones-atmosfericas/static/js/runtime-main.40ad2840.js.map",
+    "static/js/2.cfbbafb5.chunk.js": "/condiciones-atmosfericas/static/js/2.cfbbafb5.chunk.js",
+    "static/js/2.cfbbafb5.chunk.js.map": "/condiciones-atmosfericas/static/js/2.cfbbafb5.chunk.js.map",
+    "index.html": "/condiciones-atmosfericas/index.html",
+    "precache-manifest.85670610f0c3188481652c1c37887dfd.js": "/condiciones-atmosfericas/precache-manifest.85670610f0c3188481652c1c37887dfd.js",
+    "service-worker.js": "/condiciones-atmosfericas/service-worker.js",
+    "static/css/main.e47ea929.chunk.css.map": "/condiciones-atmosfericas/static/css/main.e47ea929.chunk.css.map",
+    "static/js/2.cfbbafb5.chunk.js.LICENSE.txt": "/condiciones-atmosfericas/static/js/2.cfbbafb5.chunk.js.LICENSE.txt",
+    "static/media/cloud.png": "/condiciones-atmosfericas/static/media/cloud.8aac0ff2.png",
+    "static/media/sun.png": "/condiciones-atmosfericas/static/media/sun.242c1356.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ad2840.js",
+    "static/js/2.cfbbafb5.chunk.js",
+    "static/css/main.e47ea929.chunk.css",
+    "static/js/main.2f1ecd5d.chunk.js"
+  ]
+}
